@@ -20,3 +20,7 @@
 - add salt
 - and mix well
 - enjoy!
+
+# Changes for exercise
+
+- here i am
